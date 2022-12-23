@@ -6,20 +6,20 @@
 // À vista: R$54,00
 // Ou 3x de: R$20,00
 
-let precoProduto = 60;
-let precoAVista = precoProduto * 0.9;
-let precoParcelado = precoProduto / 3;
+// let precoProduto = 60;
+// let precoAVista = precoProduto * 0.9;
+// let precoParcelado = precoProduto / 3;
 
-console.log(`Preço: R$${precoProduto},00`);
-console.log(`À vista: R$${precoAVista},00`);
-console.log(`Ou 3x de: R$${precoParcelado},00`);
+// console.log(`Preço: R$${precoProduto},00`);
+// console.log(`À vista: R$${precoAVista},00`);
+// console.log(`Ou 3x de: R$${precoParcelado},00`);
 
-// let preco = 100;
-// let aVista = 10;
-// let totalAVista = 0;
+let preco = 100;
+let aVista = 10;
+let totalAVista = 0;
 
-// totalAVista = (preco - (aVista / 100) * preco);
+totalAVista = (preco - (aVista / 100) * preco);
 
-// console.log(`Preço: R$${preco},00`);
-// console.log(`À vista: R$${totalAVista},00`);
-// console.log(`Ou 3x de: R$${preco/3},00`);
+console.log(`Preço: R$${preco},00`);
+console.log(`À vista: R$${totalAVista},00`);
+console.log(`Ou 3x de: R$${preco / 3},00`);
