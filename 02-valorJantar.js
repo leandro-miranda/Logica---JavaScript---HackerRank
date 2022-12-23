@@ -18,7 +18,7 @@ let valorJantar = 80;
 let taxaGarcom = 10;
 let total = 0;
 
-total = 80 + ((taxaGarcom / 100) * 80);
+total = valorJantar + ((taxaGarcom / 100) * valorJantar);
 
 // console.log('Valor do jantar: R$' + valorJantar + ',00');
 console.log(`Valor do jantar: R$${valorJantar},00`);
