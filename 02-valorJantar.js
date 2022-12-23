@@ -20,7 +20,7 @@ console.log(`Total a pagar: R$${valorTotal},00`);
 
 // total = 80 + ((taxaGarcom / 100) * 80);
 
-// // console.log('Valor do jantar: R$' + valorJantar + ',00');
+// console.log('Valor do jantar: R$' + valorJantar + ',00');
 // console.log(`Valor do jantar: R$${valorJantar},00`);
 // console.log(`Taxa do garçom: R$${(taxaGarcom / 100) * 80},00`);
 // console.log(`Total a pagar: R$${total},00`);
