@@ -14,7 +14,7 @@
 // console.log(`À vista: R$${precoAVista},00`);
 // console.log(`Ou 3x de: R$${precoParcelado},00`);
 
-let preco = 100;
+let preco = 60;
 let aVista = 10;
 let totalAVista = 0;
 
